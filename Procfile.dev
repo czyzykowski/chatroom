@@ -1,0 +1,2 @@
+web: rails server
+webpack: node_modules/.bin/webpack --watch --colors --progress --display-chunks --display-reasons -d

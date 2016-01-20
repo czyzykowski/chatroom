@@ -1,0 +1,18 @@
+ChatMessage.create!([
+  {from: "jarjan", content: "lorem ipsum dolor sit amet"},
+  {from: "czyzykowski", content: "consetetur sadipscing elitr"},
+  {from: "mahdif", content: "sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat"},
+  {from: "sprayaga", content: "sed diam voluptua"},
+  {from: "sprayaga", content: "at vero eos et accusam et justo duo dolores et ea rebum"},
+  {from: "sprayaga", content: "stet clita kasd gubergren"},
+  {from: "jarjan", content: "no sea takimata sanctus est Lorem ipsum dolor sit amet"},
+  {from: "jarjan", content: "lorem ipsum dolor sit amet"},
+  {from: "czyzykowski", content: "consetetur sadipscing elitr"},
+  {from: "mahdif", content: "sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat"},
+  {from: "sprayaga", content: "sed diam voluptua"},
+  {from: "jarjan", content: "at vero eos et accusam et justo duo dolores et ea rebum"},
+  {from: "jarjan", content: "set clita kasd gubergren"},
+  {from: "czyzykowski", content: "no sea takimata sanctus est lorem ipsum dolor sit amet"},
+  {from: "czyzykowski", content: "lorem ipsum dolor sit amet"},
+  {from: "jarjan", content: "http://media1.giphy.com/media/XIS4ARkxVah4A/giphy.gif!400!296"},
+])

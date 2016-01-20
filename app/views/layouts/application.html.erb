@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chatroom</title>
+  <%= stylesheet_link_tag    'application', media: 'all' %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+  <header class="container-fluid">
+    <div class="card card-block">
+      <h4>Chatroom</h4>
+    </div>
+  </header>
+
+  <div class="container-fluid">
+    <%= yield %>
+  </div>
+
+  <%= javascript_include_tag 'application' %>
+</body>
+</html>
